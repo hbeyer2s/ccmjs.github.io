@@ -10,7 +10,7 @@
     var component  = {
 
         name: 'parkhaus',
-        version: [10,5,8],
+        version: [10,5,0],
 
         ccm: 'https://kaul.inf.h-brs.de/ccmjs/ccm/versions/ccm-26.3.1.min.js',
 
